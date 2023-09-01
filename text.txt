@@ -1,0 +1,52 @@
+   ASSIGNMENTS
+
+    function drawLine(lineLength) {}
+    drawLine(1); // =
+    drawLine(2); // ==
+    drawLine(3); // ===
+    drawLine(4); // ====
+
+    // Study Regex and give 10 examples of regex
+    // Study array methods and explain vividly 15 array methods and show 2 examples of each
+    // Study local and session storage and give example how to store Object inside local storage 
+
+
+   ANSWERS FOR QUESTION 1
+
+   Check the Js file 
+
+
+   ANSWERS FOR QUESTION 2
+
+
+
+   ANSWERS FOR QUESTION 3
+
+      Array Methods
+   1. length is an array method used to get the whole length of an array. 
+
+   **For examples look into the Js file**
+
+   2. Concat:
+      this is used 
+
+   3. Reverse
+   4. Unshift
+   5.
+   6.
+   7.
+   8.
+   9.
+   10.
+   11.
+   12.
+   13.
+   14.
+   15.
+
+
+
+
+
+
+   ANSWERS FOR QUESTION 4
